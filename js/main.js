@@ -1,6 +1,6 @@
 const CONFIG = {
   // Número de WhatsApp con código de país (sin + ni espacios)
-  whatsappNumber: "573213712610",
+  whatsappNumber: "573106884489",
   // Mensaje predeterminado al abrir WhatsApp
   whatsappMessage: "Hola, me gustaría obtener más información.",
   // Personalidad del bot (system prompt)
